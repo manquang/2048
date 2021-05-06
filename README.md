@@ -14,4 +14,5 @@
 * Di chuyển bắng phím mũi tên
 * Nếu không thể di chuyển được nữa game over
 * Chọn Play Again để chơi lại
-3. Video Demo Game tại [đây](https://drive.google.com/file/d/1_tGRHBmrwlL7B1uo01HlVWE6yaCKs-JF/view?usp=sharing)
+3. Tham khảo xử lý với ma trận game tại [đây](https://github.com/Chotom/SDL-2048)
+4. Video Demo Game tại [đây](https://drive.google.com/file/d/1_tGRHBmrwlL7B1uo01HlVWE6yaCKs-JF/view?usp=sharing)
